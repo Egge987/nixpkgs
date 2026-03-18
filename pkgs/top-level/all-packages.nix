@@ -9870,6 +9870,8 @@ with pkgs;
 
   jackmix_jack1 = jackmix.override { jack = jack1; };
 
+  jauswertung = callPackage ../applications/misc/jauswertung/package.nix { };
+
   jwm = callPackage ../applications/window-managers/jwm { };
 
   jwm-settings-manager = callPackage ../applications/window-managers/jwm/jwm-settings-manager.nix { };

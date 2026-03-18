@@ -7608,6 +7608,12 @@
     githubId = 8173116;
     name = "Dean Eckert";
   };
+  Egge987 = {
+    email = "niklaseggermsann@gmail.de";
+    github = "Egge987";
+    githubId = 80511996;
+    name = "Niklas Eggersmann";
+  };
   ehegnes = {
     email = "eric.hegnes@gmail.com";
     github = "ehegnes";
